@@ -1,2 +1,25 @@
 # CS-330
 Comp Graphic and Visualization
+
+# How do I approach designing software?
+I approach designing software by first considering the requirements of the software that I am to build and then creating a plan to adhere to that will best fulfill those requirements.
+## What new design skills has your work on the project helped you to craft?
+Given that I had little experience with 3D modeling prior, this project taught me how design a 3D scene based on reference photos. Among other things, this involved taking said reference photos, breaking down complex objects into simple 3D shapes, and learning when objects could and should be simplified.
+## What design process did you follow for your project work?
+For this project, my design process often included doing research on various aspects of OpenGL rendering to establish an understanding of the problems I was attempting to solve before beginning to write code. From there, I would add a basic representation of a given object or aspect of the scene. I would then compare my new addition to the 3D scene to my reference photos and tweak positioning, lighting, materials, textures, and camera angles as necessary. 
+## How could tactics from your design approach be applied in future work?
+Tactics from my design approach could be applied in future work involving 3D computer graphics. I now feel more equipped to take useful reference photos and have a better understanding of the difficulties involved with rendering complex objects.
+# How do I approach developing programs?
+I approach developing programs by building code to reflect the programs' functional requirements. I also try to engage in coding best practices by making my code reusable and modular, leaving useful comments, and refactoring my code as needed.
+## What new development strategies did you use while working on your 3D scene?
+As OpenGL was new to me, many of the development strategies used while working on my 3D scene were new experiences. For example, I found the process of editing lighting and the materials of objects to be particularly instructive due to the abundance of different variables that could often drastically change the look of the scene even with minor adjustments. I also experienced the difficulty of finding good seamless textures and learned how to wrap and scale said textures to best fit the objects in my scene. 
+## How did iteration factor into your development?
+Iteration factored into my development greatly as I came to learn that the process of attempting to accurately recreate a scene requires constant minor tweaking. As it is hard to visualize the changes being made to a scene when looking at the code alone, this often meant that positioning even a single object could mean rebuilding and editing the code many times. This applied even more so to modifying materials as this contributed greatly to the final appearance of the objects.
+## How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
+My approach to developing code evolved throughout the project as I became better at positioning and scaling the meshes for the objects in my scene. This meant that as I became more experienced, I found it less difficult to create and properly place new objects, cutting down on the time and effort spent rebuilding and tweaking.
+# How can computer science help me in reaching my goals?
+Computer science can help me in reaching my goals as I aim to become a software developer. Programming and understanding how to use computers to solve practical problems are crucial to software development, and projects like this help to broaden my scope of computer science knowledge.
+## How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
+Computational graphics and visualization give me new knowledge that can be applied to my future educational pathway as I approach future coarses related to computer graphics. My experience gained with OpenGL in this course has been foundational and will surely help me in any future courses where I am tasked with using it.
+## How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+Computational graphics and visualization give me new knowledge that can be applied to my future professional pathway as 3D graphics and OpenGL more broadly are widely used in software development. Having the experience from this course will likely be appealing to employers and better prepare me to work on software with complex visual components. 
