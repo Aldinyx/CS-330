@@ -1,6 +1,9 @@
-# CS-330
-Comp Graphic and Visualization
-
+# CS-330: Computer Graphics and Visualization
+Scene with Default Lighting/Background and Reference Photo Display|Low Angle with More Dramatic Lighting|Orthographic Projection
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/Aldinyx/CS-330/blob/capstone-enhancements/Screenshots/screenshot_1.png)  |  ![](https://github.com/Aldinyx/CS-330/blob/capstone-enhancements/Screenshots/screenshot_2.png) | ![](https://github.com/Aldinyx/CS-330/blob/capstone-enhancements/Screenshots/screenshot_3.png)
+2nd Reference Photo with Red Lighting/Background|3rd Reference Photo with Green Lighting/Background|4th Reference Photo with Blue Lighting/Background
+![](https://github.com/Aldinyx/CS-330/blob/capstone-enhancements/Screenshots/screenshot_4.png) | ![](https://github.com/Aldinyx/CS-330/blob/capstone-enhancements/Screenshots/screenshot_5.png)| ![](https://github.com/Aldinyx/CS-330/blob/capstone-enhancements/Screenshots/screenshot_6.png)
 # How do I approach designing software?
 I approach designing software by first considering the requirements of the software that I am to build and then creating a plan to adhere to that will best fulfill those requirements.
 ## What new design skills has your work on the project helped you to craft?
