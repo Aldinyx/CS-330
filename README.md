@@ -1,6 +1,6 @@
 # CS-330
 Comp Graphic and Visualization
-
+![alt text](https://github.com/Aldinyx/CS-330/tree/capstone-enhancements/Screenshots/Screenshot/screenshot_1 "The 3D Scene with the reference photo display")
 # How do I approach designing software?
 I approach designing software by first considering the requirements of the software that I am to build and then creating a plan to adhere to that will best fulfill those requirements.
 ## What new design skills has your work on the project helped you to craft?
